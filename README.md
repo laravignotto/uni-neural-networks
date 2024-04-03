@@ -1,3 +1,4 @@
-# uni-neural-networks
+# Neural Networks [![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
+---
 
-Repository for projects and exam for my university course in Neural Networks (prev. called Semantic Web). [in Italian]
+### Project for the Neural Networks course at UNIUD 
